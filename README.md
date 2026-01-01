@@ -2,6 +2,9 @@
 
 A command-line interface for managing Linkding bookmarks.
 
+> [!IMPORTANT]
+> Moving to [goofansu/cli](https://github.com/goofansu/cli).
+
 ## Installation
 
 ```bash
